@@ -1,0 +1,24 @@
+--provincia
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'BUENOS AIRES');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'CATAMARCA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'CHACO');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'CHUBUT');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'CORDOBA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'CORRIENTES');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'ENTRE RIOS');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'FORMOSA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'JUJUY');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'LA PAMPA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'LA RIOJA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'MENDOZA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'MISIONES');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'NEUQUEN');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'RIO NEGRO');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SALTA');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SAN JUAN');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SAN LUIS');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SANTA CRUZ');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SANTA FE');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'SANTIAGO DEL ESTERO');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'TIERRA DEL FUEGO');
+INSERT INTO provincia (intIdPais, varDescripcion) VALUES (1, 'TUCUMAN');
