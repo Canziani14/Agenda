@@ -64,3 +64,9 @@ C:\Users\Matias Canziani\Downloads\Proyecto Agenda 2023-20231121T173219Z-001\Pro
 C:\Users\Matias Canziani\Downloads\Proyecto Agenda 2023-20231121T173219Z-001\Proyecto Agenda 2023\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Matias Canziani\Downloads\Proyecto Agenda 2023-20231121T173219Z-001\Proyecto Agenda 2023\BE\obj\Debug\BE.dll
 C:\Users\Matias Canziani\Downloads\Proyecto Agenda 2023-20231121T173219Z-001\Proyecto Agenda 2023\BE\obj\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.pdb

@@ -68,3 +68,9 @@ C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\SQLHelper\obj\Debug\SQLHel
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\SQLHelper\obj\Debug\SQLHelper.dll
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.pdb

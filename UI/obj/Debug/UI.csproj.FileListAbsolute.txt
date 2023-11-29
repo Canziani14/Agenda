@@ -350,3 +350,32 @@ C:\Users\Navegador\Downloads\Proyecto Agenda 2023-20231122T224348Z-001\Proyecto 
 C:\Users\Navegador\Downloads\Proyecto Agenda 2023-20231122T224348Z-001\Proyecto Agenda 2023\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\Navegador\Downloads\Proyecto Agenda 2023-20231122T224348Z-001\Proyecto Agenda 2023\UI\obj\Debug\UI.exe
 C:\Users\Navegador\Downloads\Proyecto Agenda 2023-20231122T224348Z-001\Proyecto Agenda 2023\UI\obj\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\UI.exe.config
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\SQLHelper.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\bin\Debug\SQLHelper.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIAgenda.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.Main.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIContacto.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIDireccion.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIListarContactosDeAgenda.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UILocalidad.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIPais.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UIProvincia.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UITelefono.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.UITipoDeTelefonos.resources
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.pdb

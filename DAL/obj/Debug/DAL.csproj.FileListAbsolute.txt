@@ -128,3 +128,16 @@ C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\DAL\bin\Debug\SQLHelper.dl
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\DAL\bin\Debug\SQLHelper.pdb
 C:\Users\Matias Canziani\Desktop\Proyecto Agenda 2023\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\SQLHelper.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\SQLHelper.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.pdb
