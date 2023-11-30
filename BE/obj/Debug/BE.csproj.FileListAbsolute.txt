@@ -70,3 +70,7 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csp
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\bin\Debug\MetroFramework.Design.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\bin\Debug\MetroFramework.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csproj.CopyComplete

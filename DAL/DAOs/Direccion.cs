@@ -58,10 +58,17 @@ namespace DAL.DAOs
                 new SqlParameter("@intIdLocalidad", localidad),
                 new SqlParameter("@intIdContacto", contacto)
             };
+            if (SqlHelper.GetInstance(connectionString).ExecuteNonQuery(SPAdd, parameters)>0)
+            {
+                returnValue = true;
+            }
+            else
+            {
+                
+            }
+            
 
-            SqlHelper.GetInstance(connectionString).ExecuteNonQuery(SPAdd, parameters);
-
-            returnValue = true;
+            
 
             return returnValue;   
         }

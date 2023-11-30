@@ -157,3 +157,6 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.c
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.Fonts.dll

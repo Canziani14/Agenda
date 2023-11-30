@@ -22,10 +22,12 @@ namespace UI
         BLL.Provincia BLLProvincia = new BLL.Provincia();
         BLL.Pais BLLPais = new BLL.Pais();
 
-        BE.Pais pais;
-        BE.Provincia provincia;
-        BE.Localidad localidad;
-
+        //BE.Pais BEPais = new BE.Pais();
+        //BE.Provincia BEProvincia = new BE.Provincia();
+        //BE.Localidad BELocalidad = new BE.Localidad();
+        int idPaisSeleccionado = 0;
+        int idProvinciaSeleccionada = 0;
+        int idLocalidadSeleccionada = 0;
         
         #endregion
 
@@ -35,7 +37,7 @@ namespace UI
             InitializeComponent();
             txtID.Enabled = false;
             dtgDirecciones.DataSource = BLLDireccion.Listar(id);
-
+            BEDireccion.ContactoID = id;
 
             var provincias = BLLProvincia.Listar();
             var nombreProvincia = provincias.Where(provincia => provincia.Nombre != null).Select(provincia => provincia.Nombre).ToList();
@@ -73,9 +75,13 @@ namespace UI
                 BEDireccion.Departamento = txtDepartamento.Text;
 
 
-                BEDireccion.LocalidadID = localidad.ID;
-                BEDireccion.ProvinciaID = provincia.ID;
-                BEDireccion.PaisID = pais.ID;
+                idPaisSeleccionado = int.Parse(cmbPais.SelectedIndex.ToString())+1;
+                idProvinciaSeleccionada = int.Parse(cmbProvincia.SelectedIndex.ToString())+31;
+                idLocalidadSeleccionada = int.Parse(cmbLocalidad.SelectedIndex.ToString())+143;
+
+                BEDireccion.LocalidadID = idLocalidadSeleccionada;
+                BEDireccion.ProvinciaID = idProvinciaSeleccionada;
+                BEDireccion.PaisID = idPaisSeleccionado;
             }
             catch (Exception ex)
             {
@@ -194,7 +200,7 @@ namespace UI
             }
             else
             {
-                txtPiso.Text = string.Empty; // O puedes asignar null si realmente deseas que sea null
+                txtPiso.Text = string.Empty; 
             }
 
             txtDepartamento.Text = direccion.Departamento;
@@ -224,21 +230,24 @@ namespace UI
 
 
         #endregion
-
-/*
         private void cmbPais_SelectedIndexChanged(object sender, EventArgs e)
         {
-            pais = (BE.Pais)((ComboBox)sender).SelectedItem;
+            //pais = (BE.Pais)((ComboBox)sender).SelectedItem;
+           // pais.ID = int.Parse(cmbPais.SelectedIndex.ToString());
         }
 
         private void cmbProvincia_SelectedIndexChanged(object sender, EventArgs e)
         {
-            provincia = (BE.Provincia)((ComboBox)sender).SelectedItem;
+            // provincia = (BE.Provincia)((ComboBox)sender).SelectedItem;
+            //provincia.ID = int.Parse(cmbProvincia.SelectedIndex.ToString());
         }
-      
+
         private void cmbLocalidad_SelectedIndexChanged(object sender, EventArgs e)
         {
-            localidad = (BE.Localidad)((ComboBox)sender).SelectedItem;
-        }*/
+            // localidad = (BE.Localidad)((ComboBox)sender).SelectedItem;
+             //localidad.ID = int.Parse(cmbLocalidad.SelectedIndex.ToString());
+        }
+
+
     }
 }

@@ -38,9 +38,9 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.agendaToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(20, 60);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(778, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(738, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -55,7 +55,7 @@
             // crearAgendaToolStripMenuItem
             // 
             this.crearAgendaToolStripMenuItem.Name = "crearAgendaToolStripMenuItem";
-            this.crearAgendaToolStripMenuItem.Size = new System.Drawing.Size(295, 22);
+            this.crearAgendaToolStripMenuItem.Size = new System.Drawing.Size(155, 22);
             this.crearAgendaToolStripMenuItem.Text = "CRUD AGENDA";
             this.crearAgendaToolStripMenuItem.Click += new System.EventHandler(this.crearAgendaToolStripMenuItem_Click);
             // 
@@ -69,7 +69,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main";
             this.Text = "Agenda";
-
+            this.TransparencyKey = System.Drawing.Color.Empty;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
