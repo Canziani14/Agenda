@@ -81,27 +81,19 @@
     <Compile Include="UIDireccion.Designer.cs">
       <DependentUpon>UIDireccion.cs</DependentUpon>
     </Compile>
-    <Compile Include="UIListarContactosDeAgenda.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="UIListarContactosDeAgenda.cs" />
     <Compile Include="UIListarContactosDeAgenda.Designer.cs">
       <DependentUpon>UIListarContactosDeAgenda.cs</DependentUpon>
     </Compile>
-    <Compile Include="UILocalidad.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="UILocalidad.cs" />
     <Compile Include="UILocalidad.Designer.cs">
       <DependentUpon>UILocalidad.cs</DependentUpon>
     </Compile>
-    <Compile Include="UIPais.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="UIPais.cs" />
     <Compile Include="UIPais.Designer.cs">
       <DependentUpon>UIPais.cs</DependentUpon>
     </Compile>
-    <Compile Include="UIProvincia.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="UIProvincia.cs" />
     <Compile Include="UIProvincia.Designer.cs">
       <DependentUpon>UIProvincia.cs</DependentUpon>
     </Compile>
@@ -111,9 +103,7 @@
     <Compile Include="UITelefono.Designer.cs">
       <DependentUpon>UITelefono.cs</DependentUpon>
     </Compile>
-    <Compile Include="UITipoDeTelefonos.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="UITipoDeTelefonos.cs" />
     <Compile Include="UITipoDeTelefonos.Designer.cs">
       <DependentUpon>UITipoDeTelefonos.cs</DependentUpon>
     </Compile>

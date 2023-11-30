@@ -7,17 +7,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework.Components;
+using MetroFramework.Controls;
+using MetroFramework.Forms;
+
 
 
 
 namespace UI
 {
-    public partial class Main : Form
+    public partial class Main : MetroForm
     {
+      
+
         public Main()
         {
             InitializeComponent();
-            this.IsMdiContainer = true;
+            MetroFramework.MetroThemeStyle theme = MetroFramework.MetroThemeStyle.Dark;
+            MetroFramework.MetroColorStyle style = MetroFramework.MetroColorStyle.Green;
+
+            MetroFramework.Components.MetroStyleManager manager = new MetroFramework.Components.MetroStyleManager();
+            manager.Theme = theme;
+            manager.Style = style;
+            
+
         }
      
         private void crearAgendaToolStripMenuItem_Click(object sender, EventArgs e)
@@ -27,5 +40,10 @@ namespace UI
             agenda.Show();
         }
 
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683
     }
+    
 }

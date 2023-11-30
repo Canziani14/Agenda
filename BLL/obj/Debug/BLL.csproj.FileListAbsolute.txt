@@ -157,6 +157,25 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.c
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\obj\Debug\BLL.pdb
+<<<<<<< HEAD
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.Design.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BLL\bin\Debug\MetroFramework.Fonts.dll
+=======
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\SQLHelper.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\obj\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\obj\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\MetroFramework.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BLL\bin\Debug\MetroFramework.Fonts.dll
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683

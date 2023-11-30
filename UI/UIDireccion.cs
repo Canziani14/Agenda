@@ -13,6 +13,7 @@ namespace UI
 {
     public partial class UIDireccion : Form
     {
+       
         #region InstanciasDirecciones
         BE.Direccion BEDireccion = new BE.Direccion();
         BE.Direccion DireccionSeleccionada = new BE.Direccion();
@@ -22,12 +23,20 @@ namespace UI
         BLL.Provincia BLLProvincia = new BLL.Provincia();
         BLL.Pais BLLPais = new BLL.Pais();
 
+<<<<<<< HEAD
         //BE.Pais BEPais = new BE.Pais();
         //BE.Provincia BEProvincia = new BE.Provincia();
         //BE.Localidad BELocalidad = new BE.Localidad();
         int idPaisSeleccionado = 0;
         int idProvinciaSeleccionada = 0;
         int idLocalidadSeleccionada = 0;
+=======
+        BE.Pais pais = new Pais();
+        BE.Provincia provincia = new Provincia();
+        BE.Localidad localidad = new Localidad();
+       
+
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683
         
         #endregion
 
@@ -67,14 +76,22 @@ namespace UI
                 MessageBox.Show("Por favor, complete todos los campos");
                 return;
             }
-            try
+            else
             {
+
+            
+           // try
+            //{
                 BEDireccion.Calle = txtCalle.Text;
-                BEDireccion.Altura = int.Parse(txtAltura.Text);
+                BEDireccion.Altura = int.Parse(txtAltura.Text.ToString());
                 BEDireccion.Piso = txtPiso.Text;
                 BEDireccion.Departamento = txtDepartamento.Text;
 
+                localidad.ID = int.Parse(cmbLocalidad.SelectedIndex.ToString())+1;
+                provincia.ID = int.Parse(cmbProvincia.SelectedIndex.ToString())+1;
+                pais.ID = int.Parse(cmbPais.SelectedIndex.ToString())+1;
 
+<<<<<<< HEAD
                 idPaisSeleccionado = int.Parse(cmbPais.SelectedIndex.ToString())+1;
                 idProvinciaSeleccionada = int.Parse(cmbProvincia.SelectedIndex.ToString())+31;
                 idLocalidadSeleccionada = int.Parse(cmbLocalidad.SelectedIndex.ToString())+143;
@@ -88,6 +105,18 @@ namespace UI
                 MessageBox.Show("Error: " + ex.Message);
                 return;
             }
+=======
+                
+                BEDireccion.LocalidadID = localidad.ID;
+                BEDireccion.ProvinciaID = provincia.ID;
+                BEDireccion.PaisID = pais.ID;
+          //  }
+           // catch (Exception ex)
+            //{
+               // MessageBox.Show("Error: " + ex.Message);
+                //return;
+            //}
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683
             if (BLLDireccion.Agregar(BEDireccion))
             {
                 MessageBox.Show("Direccion creada con exito");
@@ -98,6 +127,7 @@ namespace UI
             }
             limpiarGrilla();
             limpiartxt();
+                }
         }
         #endregion
 
@@ -230,10 +260,19 @@ namespace UI
 
 
         #endregion
+<<<<<<< HEAD
         private void cmbPais_SelectedIndexChanged(object sender, EventArgs e)
         {
             //pais = (BE.Pais)((ComboBox)sender).SelectedItem;
            // pais.ID = int.Parse(cmbPais.SelectedIndex.ToString());
+=======
+
+
+        private void cmbPais_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //pais = (BE.Pais)((ComboBox)sender).SelectedItem;
+            
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683
         }
 
         private void cmbProvincia_SelectedIndexChanged(object sender, EventArgs e)
@@ -245,9 +284,15 @@ namespace UI
         private void cmbLocalidad_SelectedIndexChanged(object sender, EventArgs e)
         {
             // localidad = (BE.Localidad)((ComboBox)sender).SelectedItem;
+<<<<<<< HEAD
              //localidad.ID = int.Parse(cmbLocalidad.SelectedIndex.ToString());
         }
 
 
+=======
+           // localidad.ID = int.Parse(cmbLocalidad.SelectedIndex.ToString());
+        }
+
+>>>>>>> 2a801cac9a6fd7210f2303a17a4ed1b643d1e683
     }
 }

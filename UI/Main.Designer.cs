@@ -28,10 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.agendaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crearAgendaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.metroStyleManager1 = new MetroFramework.Components.MetroStyleManager(this.components);
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -59,6 +62,10 @@
             this.crearAgendaToolStripMenuItem.Text = "CRUD AGENDA";
             this.crearAgendaToolStripMenuItem.Click += new System.EventHandler(this.crearAgendaToolStripMenuItem_Click);
             // 
+            // metroStyleManager1
+            // 
+            this.metroStyleManager1.Owner = null;
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -72,6 +79,7 @@
             this.TransparencyKey = System.Drawing.Color.Empty;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -82,6 +90,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem agendaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem crearAgendaToolStripMenuItem;
+        private MetroFramework.Components.MetroStyleManager metroStyleManager1;
     }
 }
 
