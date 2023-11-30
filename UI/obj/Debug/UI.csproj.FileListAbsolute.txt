@@ -379,3 +379,30 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csp
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.exe
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\UI\obj\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\UI.exe.config
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\SQLHelper.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.UIAgenda.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.Main.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.UIContacto.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.UIDireccion.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.UITelefono.resources
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\obj\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\MetroFramework.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\UI\bin\Debug\MetroFramework.Fonts.dll

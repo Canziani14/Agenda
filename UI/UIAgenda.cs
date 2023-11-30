@@ -137,7 +137,7 @@ namespace UI
                 if (AgendaSeleccionada != null)
                 {
                     bool eliminada = BLLAgenda.Eliminar(AgendaSeleccionada);
-                    MessageBox.Show(AgendaSeleccionada.Descripcion);
+                    
                     try
                     {
                         if (eliminada)

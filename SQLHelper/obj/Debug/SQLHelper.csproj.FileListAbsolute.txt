@@ -74,3 +74,13 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\bin\Debug\MetroFramework.Design.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\bin\Debug\MetroFramework.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\SQLHelper\obj\Debug\SQLHelper.csproj.CopyComplete

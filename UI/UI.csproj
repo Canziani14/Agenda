@@ -33,6 +33,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -72,41 +81,11 @@
     <Compile Include="UIDireccion.Designer.cs">
       <DependentUpon>UIDireccion.cs</DependentUpon>
     </Compile>
-    <Compile Include="UIListarContactosDeAgenda.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UIListarContactosDeAgenda.Designer.cs">
-      <DependentUpon>UIListarContactosDeAgenda.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UILocalidad.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UILocalidad.Designer.cs">
-      <DependentUpon>UILocalidad.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UIPais.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UIPais.Designer.cs">
-      <DependentUpon>UIPais.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UIProvincia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UIProvincia.Designer.cs">
-      <DependentUpon>UIProvincia.cs</DependentUpon>
-    </Compile>
     <Compile Include="UITelefono.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UITelefono.Designer.cs">
       <DependentUpon>UITelefono.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UITipoDeTelefonos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UITipoDeTelefonos.Designer.cs">
-      <DependentUpon>UITipoDeTelefonos.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="UIAgenda.resx">
       <DependentUpon>UIAgenda.cs</DependentUpon>
@@ -129,24 +108,10 @@
     <EmbeddedResource Include="UIDireccion.resx">
       <DependentUpon>UIDireccion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UIListarContactosDeAgenda.resx">
-      <DependentUpon>UIListarContactosDeAgenda.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UILocalidad.resx">
-      <DependentUpon>UILocalidad.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UIPais.resx">
-      <DependentUpon>UIPais.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UIProvincia.resx">
-      <DependentUpon>UIProvincia.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="UITelefono.resx">
       <DependentUpon>UITelefono.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UITipoDeTelefonos.resx">
-      <DependentUpon>UITipoDeTelefonos.cs</DependentUpon>
-    </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

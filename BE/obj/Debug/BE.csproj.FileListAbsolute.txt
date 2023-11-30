@@ -70,3 +70,13 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csp
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\BE\obj\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\obj\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\obj\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\bin\Debug\MetroFramework.Design.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\bin\Debug\MetroFramework.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\BE\obj\Debug\BE.csproj.CopyComplete

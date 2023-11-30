@@ -141,3 +141,19 @@ C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.c
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.dll
 C:\Users\Matias Canziani\Desktop\Proyecto agenda 2023\Agenda\DAL\obj\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\SQLHelper.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\SQLHelper.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\obj\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\obj\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\MetroFramework.dll
+C:\Users\CASA\Desktop\Proyecto Agenda 2023\Agenda\Agenda\DAL\bin\Debug\MetroFramework.Fonts.dll
